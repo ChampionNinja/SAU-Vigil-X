@@ -339,28 +339,4 @@ See [docs/TESTING.md](docs/TESTING.md) for detailed testing guide.
 - `POST /createVisitorSession` - Create visitor pass
 - `POST /validateVisitor` - Validate visitor QR
 
-See [docs/API.md](docs/API.md) for detailed API documentation.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Write tests
-5. Submit a pull request
-
-## 📄 License
-
-[Your License Here]
-
-## 👨‍💻 Authors
-
-[Your Team/Organization]
-
-## 🐛 Issues
-
-Report issues at [Your Issue Tracker]
-
-## 📞 Support
-
-For support, email [your-email] or join our Slack channel.

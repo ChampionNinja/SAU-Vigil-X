@@ -284,15 +284,6 @@ cd vigilx
 npm test
 ```
 
-See [docs/TESTING.md](docs/TESTING.md) for detailed testing guide.
-
-## 📚 Documentation
-
-- [API Documentation](docs/API.md)
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Security Considerations](docs/SECURITY.md)
-- [Testing Guide](docs/TESTING.md)
 
 ## 🚦 Gate-Specific Behavior
 
